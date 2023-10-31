@@ -1,0 +1,16 @@
+# pip install -r requirements.txt
+
+----------------------------------------
+matplotlib>=3.7.2
+numpy>=1.23.5
+torch>=2.1.0+cu118
+torchvision>=0.16.0+cu118
+requests>=2.31.0
+pandas>=2.0.3
+pathlib
+timeit
+tqdm.auto
+
+
+
+
